@@ -6,12 +6,12 @@ Développement d'une Api pour permettre le fonctionnement d'une application web 
 
 --Listes des routes disponible via l'Api
 
--/api/orders     #route de récuperation des commandes
--/api/beverages           #route de récuperation des différentes boissons
--/api/dishes             #route de récuperation des differents plats
--/api/create/dish        #route de création de d'un plat
--/api/create/beverage     #route de création d'une boisson
--/api/menu/{date_of}         #route de récuperation du ménu en fonction de la date
+	-/api/orders     #route de récuperation des commandes
+	-/api/beverages           #route de récuperation des différentes boissons
+	-/api/dishes             #route de récuperation des differents plats
+	-/api/create/dish        #route de création de d'un plat
+	-/api/create/beverage     #route de création d'une boisson
+	-/api/menu/{date_of}         #route de récuperation du ménu en fonction de la date
 
 --Base de donnnes et ORM
 
