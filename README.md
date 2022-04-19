@@ -21,3 +21,5 @@ Développement d'une Api pour permettre le fonctionnement d'une application web 
 	
     -Definiton d'une connexion avec une base de donneés MySQL depuis le moduule "database.py" et creation creation des session locales
 
+--Dependences
+	fichier des dépendences "dpendences.txt"
